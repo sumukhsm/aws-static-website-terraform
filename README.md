@@ -59,16 +59,12 @@ The infrastructure was deployed using Terraform and designed following AWS cloud
 ## Project Screenshots
 
 ### Terraform Deployment
-(Add screenshot here)
 
 ### S3 Bucket
-(Add screenshot here)
 
 ### CloudFront Distribution
-(Add screenshot here)
 
 ### Website Output
-(Add screenshot here)
 
 ---
 
