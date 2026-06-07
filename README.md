@@ -58,16 +58,16 @@ The infrastructure was deployed using Terraform and designed following AWS cloud
 
 ## Project Screenshots
 ### Terraform Deployment
-![Terraform](screenshots/terraform-apply.png)
+https://github.com/sumukhsm/aws-static-website-terraform/blob/main/terraform%20apply%20.png
 
 ### S3 Bucket
-![S3](screenshots/s3-bucket.png)
+https://github.com/sumukhsm/aws-static-website-terraform/blob/main/S3.png
 
 ### CloudFront Distribution
-![CloudFront](screenshots/cloudfront.png)
+https://github.com/sumukhsm/aws-static-website-terraform/blob/main/Cloudfront%20distribution.png
 
 ### Website Output
-![Website](screenshots/website-output.png)
+https://github.com/sumukhsm/aws-static-website-terraform/blob/main/Output%20cloudfront.png
 ---
 
 ## Author
